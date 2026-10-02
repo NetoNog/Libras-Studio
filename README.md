@@ -1,6 +1,11 @@
-# Tradutor de Libras Profissional em Tempo Real (Visão Computacional Local)
+# Libras Studio Pro — Tradutor e Plataforma de Estudo de Libras em Tempo Real
+> **Visão Computacional Local (MediaPipe + OpenCV), Reconhecimento Bimanual, Tradução Sintática e Síntese de Voz (TTS)**
+
+> [!NOTE]
+> **Propósito Didático & Estudo de Libras**: Este projeto foi concebido exclusivamente para fins **educacionais, de estudo, pesquisa acadêmica e experimentação em visão computacional**. Ele **não** substitui a atuação de Tradutores e Intérpretes de Libras (TILS) certificados. Para uma análise detalhada da arquitetura, tecnologias e roadmap, consulte o arquivo [DOCUMENTACAO.md](DOCUMENTACAO.md).
 
 Sistema avançado de alta precisão e baixa latência para rastreamento bimanual e facial, reconhecimento de sinais estáticos, dinâmicos e léxicos, tradução sintática gramatical (Libras para Português fluente) e **síntese de voz em português (TTS)** via webcam, com execução puramente local em CPU (sem necessidade de placas GPU dedicadas ou APIs em nuvem).
+
 
 ---
 
